@@ -1,5 +1,5 @@
 {
     "appId":"com.darkriddle.guide",
-    "isLive":true,
+    "isLive":false,
     "moveId":"com.test.moveid"
 }
